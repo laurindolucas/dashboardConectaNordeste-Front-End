@@ -9,8 +9,8 @@ export const DashboardHeader = () => {
     <header className="border-b bg-card">
       <div className="container flex h-16 items-center justify-between px-6">
         <div>
-          <h1 className="text-xl font-bold">Dashboard Censo Escolar</h1>
-          <p className="text-sm text-muted-foreground">Escolas Rurais do Nordeste</p>
+          <h1 className="text-xl font-bold">Dashboard Nordeste Conectado</h1>
+          <p className="text-sm text-muted-foreground">Informações sobre tecnologia na área rural do nordeste</p>
         </div>
 
         <div className="flex items-center gap-4">
